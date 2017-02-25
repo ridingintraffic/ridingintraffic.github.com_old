@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mike Fettis!
-tagline: doing stuff
+title: Mike Fettis
+tagline: what did I learn today
 ---
 {% include JB/setup %}
 
