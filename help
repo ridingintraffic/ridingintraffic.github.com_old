@@ -11,6 +11,12 @@ $ bundle exec jekyll publish _drafts/my-new-draft.md --date 2014-01-24
 Unpublish your post using:
 $ bundle exec jekyll unpublish _posts/2014-01-24-my-new-draft.md
 
+adding images
+![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
+
+
+previewing locally 
+bundle exec jekyll serve
 
 markdown syntax
 
@@ -29,6 +35,7 @@ end
 
 Inline Links	
 A [link](http://example.com "Title").
+[jeykll](https://jekyllrb.com/docs/posts/ "jeykll")
 
 Inline Images	
 Logo: ![Alt](/wp.png "Title")
