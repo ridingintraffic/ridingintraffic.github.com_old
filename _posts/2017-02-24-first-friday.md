@@ -16,6 +16,6 @@ There are ways to get the local version up and running but it appears that I may
 Hugo - well hugo was another static generator that I thought i was going to use but it turns out i had configured the auto-builder in jekyll an it just happened to work right.   I received an email saying I had some styling issues but then i viewed the page and things looked good.  Viola I have a static jekyll blog instead, and hugo gets shelved.  
 
 #Coffee roasting
-Completely unrelated note I did some more coffee roasting tonight and am still baffled by exactly how my roaster works. I know that i built it from a modified popcorn popper but every time I roast the subtle differences still happen. ![roaster]({{ site.url }}/assets/images/roaster.jpg)
+Completely unrelated note I did some more coffee roasting tonight and am still baffled by exactly how my roaster works. I know that i built it from a modified popcorn popper but every time I roast the subtle differences still happen. ![roaster](/assets/images/roaster.jpg)
  I am trying to be as technical and specific as possible but simply keeping an eye on the wattage used the beans the smell and the temperature seems to be the best viable option so far. I based the design off of this [link](https://ineedcoffee.com/west-bend-popper-2-rewire-coffee-roasting/ "rewire")
  I think thats a good start for the first day,  lets see how this post looks
