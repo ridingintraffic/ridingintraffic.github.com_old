@@ -1,6 +1,8 @@
 ---
 layout: post
 title: first friday
+tags : [intro, coffee, jekyll, hugo]
+
 ---
 
 #Today is the first day
