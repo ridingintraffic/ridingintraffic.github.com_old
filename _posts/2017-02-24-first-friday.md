@@ -5,7 +5,7 @@ tags : [intro, coffee, jekyll, hugo]
 
 ---
 
-#Today is the first day
+# Today is the first day
 I was listening to a podcast today, arrested devops and on it was  [julia evans](https://jvns.ca/ "julia evans") she talked about writing a blog post every day about what she learned.  Originally this was done for her workshop, in order to keep track of the days and things learned.  I feel like it is a good idea so I shall give it a go.
 
 # What did I learn?
