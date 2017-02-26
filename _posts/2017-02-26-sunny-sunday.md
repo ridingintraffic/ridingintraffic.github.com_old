@@ -1,6 +1,6 @@
 ---
 layout: post
-title: not so sunny sunday
+title: sunny sunday
 tags : [google, analytics, fitbit, fitness]
 
 ---
