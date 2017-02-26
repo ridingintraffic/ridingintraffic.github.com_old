@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sunny sunday
-tags : [google, analytics, fitbit, fitness, github, dod]
+tags : [google, analytics, fitbit, fitness, github, dod, open source]
 
 ---
 
@@ -17,3 +17,5 @@ There has been research done around the accuracy of optical heart rate monitors.
 # DoD open sourced
 Looks like the government is trying to get in the open source world and perhaps they think it might drive them some talent?  Interesting enough to mention. [dod github page](https://github.com/deptofdefense/code.mil/blob/master/LICENSE-agreement.md "dod github")
  
+# github open source guide
+Github also released an open source about how to properly handle and maintain open source.  [opensource.guide](https://opensource.guide/ "opensource.guide")
