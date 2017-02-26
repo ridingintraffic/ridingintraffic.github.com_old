@@ -8,7 +8,7 @@ tags : [google, analytics, fitbit, fitness]
 February in Chicago can be less than sunny, although the sun came out today
 
 
-#google analytics seems pretty easy 
+# google analytics seems pretty easy 
 Log in to the google page and create a site [google page](https://analytics.google.com/ "google page"). Then add the tracking code to the jekyll theme and bam site tracking.
 
 # fitbit 
