@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017-02-25 busy saturday
+title: busy saturday
 tags : [github, git, jekyll, ruby, mac, docker, raspberrypi]
 
 ---

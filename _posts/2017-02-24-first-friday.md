@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017-02-24 first friday
+title: first friday
 tags : [intro, coffee, jekyll, hugo]
 
 ---
