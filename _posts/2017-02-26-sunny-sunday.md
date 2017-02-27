@@ -1,6 +1,6 @@
 ---
 layout: post
-title: sunny sunday
+title: 2017-02-26 sunny sunday
 tags : [google, analytics, fitbit, fitness, github, dod, open source]
 
 ---

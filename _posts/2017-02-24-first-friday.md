@@ -1,6 +1,6 @@
 ---
 layout: post
-title: first friday
+title: 2017-02-24 first friday
 tags : [intro, coffee, jekyll, hugo]
 
 ---
@@ -9,7 +9,7 @@ tags : [intro, coffee, jekyll, hugo]
 I was listening to a podcast today, arrested devops and on it was  [julia evans](https://jvns.ca/ "julia evans") she talked about writing a blog post every day about what she learned.  Originally this was done for her workshop, in order to keep track of the days and things learned.  I feel like it is a good idea so I shall give it a go.
 
 # What did I learn?
-Today I learned about jekyll and hugo. As well as setting up jekyll to auto build and auto publish against github [jeykll](https://jekyllrb.com/docs/posts/ "jeykll") and the auto build can be found here  [github help pages about jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/ "github help pages about jekyll")   Additionally there is a nice jekyll composer here [jekyll-compose](https://github.com/jekyll/jekyll-compose "jekyll-compose")
+Today I learned about jekyll and hugo. As well as setting up jekyll to auto build and auto publish against github [jeykll](https://jekyllrb.com/docs/posts/ "jeykll") and the auto build can be found here  [github help pages about jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/ "github help pages about jekyll")   Additionally there is a nice jekyll composer here [jekyll-compose](https://github.com/jekyll/jekyll-compose "jekyll-compose")   the jekyll bootstrap is a great tool for setting this up [jekyll-bootstrap ](http://jekyllbootstrap.com/ "jekyll-bootstrap") 
 
 There are ways to get the local version up and running but it appears that I may not have that quite figured out yet.
 

@@ -52,3 +52,6 @@ DEPENDENCIES
   jekyll-compose
   jekyll-sitemap
   pygments.rb
+
+BUNDLED WITH
+   1.12.5
